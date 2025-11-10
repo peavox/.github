@@ -145,7 +145,7 @@ Peavox is developed by a team passionate about fitness and technology. We believ
 
 - **Website**: [peavox.com](https://peavox.com)
 - **Email**: hello@peavox.com
-- **Twitter**: [@peavox](https://twitter.com/peavox)
+- **X**: [@peavox](https://x.com/peavox)
 - **YouTube**: [Peavox](https://www.youtube.com/@Peavox)
 
 ## 🌟 Stay Updated
@@ -154,7 +154,7 @@ Want to hear about new features, updates, and fitness industry insights?
 
 - 📧 [Subscribe to our newsletter](https://peavox.com/)
 - 📝 [Read our blog](https://peavox.com/blog)
-- 🐦 [Follow us on Twitter](https://twitter.com/peavox)
+- 🐦 [Follow us on X](https://x.com/peavox)
 
 ---
 
@@ -162,6 +162,6 @@ Want to hear about new features, updates, and fitness industry insights?
 
 **Built with ❤️ for the fitness industry**
 
-[🚀 Get Started](https://peavox.com/signup) • [📧 Contact Sales](mailto:sales@peavox.com) • [📚 Documentation](https://docs.peavox.com)
+[🚀 Get Started](https://peavox.com) • [📧 Contact Sales](mailto:sales@peavox.com) • [📚 Documentation](https://peavox.com)
 
 </div>

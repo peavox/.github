@@ -84,10 +84,10 @@ Peavox is designed to serve the global fitness industry with a particular focus 
 
 ## 📚 Resources
 
-- [Product Documentation](https://docs.peavox.com)
-- [API Documentation](https://api.peavox.com/docs)
-- [Help Center](https://help.peavox.com)
-- [Blog](https://blog.peavox.com)
+- [Product Documentation](https://peavox.com)
+- [API Documentation](https://peavox.com)
+- [Help Center](https://peavox.com)
+- [Blog](https://peavox.com/blog)
 
 ## 🔐 Security & Compliance
 
